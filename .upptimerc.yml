@@ -10,7 +10,7 @@ sites:
   - name: Trianglish
     url: https://trianglish.com
   - name: End of Treatment Bells
-  url: https://endoftreatmentbells.com
+    url: https://endoftreatmentbells.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
