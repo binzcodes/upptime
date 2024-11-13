@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 407,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "down",
-    "uptime": "81.30%",
-    "uptimeDay": "81.30%",
-    "uptimeWeek": "81.30%",
-    "uptimeMonth": "81.30%",
-    "uptimeYear": "81.30%",
+    "uptime": "4.46%",
+    "uptimeDay": "4.46%",
+    "uptimeWeek": "4.46%",
+    "uptimeMonth": "4.46%",
+    "uptimeYear": "4.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-13": 11
     }
   },
   {
@@ -48,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 365,
-    "timeWeek": 365,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "End of Treatment Bells",
+    "url": "https://endoftreatmentbells.com",
+    "icon": "https://icons.duckduckgo.com/ip3/endoftreatmentbells.com.ico",
+    "slug": "end-of-treatment-bells",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 449,
+    "timeDay": 449,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   }
 ]
