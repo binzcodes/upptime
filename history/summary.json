@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-08": 7,
+      "2025-06-08": 327,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -249,18 +249,20 @@
     "url": "https://trianglish.com",
     "icon": "https://icons.duckduckgo.com/ip3/trianglish.com.ico",
     "slug": "trianglish",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 184,
-    "timeWeek": 348,
-    "timeMonth": 253,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 1648,
+    "timeWeek": 694,
+    "timeMonth": 342,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2025-06-08": 0
+    }
   },
   {
     "name": "End of Treatment Bells",
