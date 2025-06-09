@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 200,
-    "timeWeek": 170,
-    "timeMonth": 198,
-    "timeYear": 209,
+    "time": 210,
+    "timeDay": 310,
+    "timeWeek": 177,
+    "timeMonth": 199,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-08": 339,
+      "2025-06-09": 7,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -251,18 +252,16 @@
     "slug": "trianglish",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 1139,
-    "timeWeek": 630,
-    "timeMonth": 336,
-    "timeYear": 228,
-    "dailyMinutesDown": {
-      "2025-06-08": 12
-    }
+    "time": 229,
+    "timeDay": 1164,
+    "timeWeek": 637,
+    "timeMonth": 337,
+    "timeYear": 229,
+    "dailyMinutesDown": {}
   },
   {
     "name": "End of Treatment Bells",
@@ -276,9 +275,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 152,
-    "timeWeek": 195,
-    "timeMonth": 369,
+    "timeDay": 209,
+    "timeWeek": 199,
+    "timeMonth": 366,
     "timeYear": 218,
     "dailyMinutesDown": {}
   }
