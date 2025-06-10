@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-10": 454,
+      "2025-06-10": 464,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -251,19 +251,19 @@
     "url": "https://trianglish.com",
     "icon": "https://icons.duckduckgo.com/ip3/trianglish.com.ico",
     "slug": "trianglish",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 1622,
-    "timeWeek": 887,
-    "timeMonth": 418,
+    "timeDay": 1135,
+    "timeWeek": 821,
+    "timeMonth": 411,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-06-10": 0
+      "2025-06-10": 10
     }
   },
   {
