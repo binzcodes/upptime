@@ -4,7 +4,7 @@
     "url": "https://rbi.nz",
     "icon": "https://icons.duckduckgo.com/ip3/rbi.nz.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 203,
     "timeMonth": 222,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 0
+    }
   },
   {
     "name": "Main - binz.codes",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "up",
-    "uptime": "14.53%",
+    "uptime": "14.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "14.53%",
+    "uptimeYear": "14.66%",
     "time": 488,
     "timeDay": 255,
     "timeWeek": 413,
@@ -262,18 +264,16 @@
     "slug": "trianglish",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 211,
     "timeWeek": 187,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2025-07-24": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "End of Treatment Bells",
@@ -282,17 +282,15 @@
     "slug": "end-of-treatment-bells",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 259,
     "timeWeek": 204,
     "timeMonth": 209,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2025-07-24": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
