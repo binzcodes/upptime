@@ -4,19 +4,19 @@
     "url": "https://rbi.nz",
     "icon": "https://icons.duckduckgo.com/ip3/rbi.nz.ico",
     "slug": "main",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 115,
-    "timeWeek": 191,
-    "timeMonth": 208,
+    "timeDay": 110,
+    "timeWeek": 181,
+    "timeMonth": 204,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 12
     }
   },
   {
