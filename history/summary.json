@@ -4,20 +4,18 @@
     "url": "https://rbi.nz",
     "icon": "https://icons.duckduckgo.com/ip3/rbi.nz.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 249,
     "timeWeek": 217,
     "timeMonth": 205,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2025-08-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Main - binz.codes",
