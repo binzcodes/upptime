@@ -1,7 +1,7 @@
 url: https://rbi.nz
-status: up
-code: 200
-responseTime: 301
-lastUpdated: 2025-10-19T23:04:30.103Z
+status: down
+code: 500
+responseTime: 3565
+lastUpdated: 2025-10-20T07:24:06.422Z
 startTime: 2024-11-13T20:46:34.007Z
 generator: Upptime <https://github.com/upptime/upptime>
