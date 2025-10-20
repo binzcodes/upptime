@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "up",
-    "uptime": "36.61%",
+    "uptime": "36.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.61%",
+    "uptimeYear": "36.66%",
     "time": 532,
     "timeDay": 305,
     "timeWeek": 440,
@@ -284,9 +284,9 @@
     "url": "https://endoftreatmentbells.com",
     "icon": "https://icons.duckduckgo.com/ip3/endoftreatmentbells.com.ico",
     "slug": "end-of-treatment-bells",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -295,6 +295,8 @@
     "timeWeek": 234,
     "timeMonth": 201,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   }
 ]
