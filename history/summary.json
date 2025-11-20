@@ -11,9 +11,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 232,
-    "timeDay": 270,
-    "timeWeek": 172,
-    "timeMonth": 313,
+    "timeDay": 296,
+    "timeWeek": 188,
+    "timeMonth": 312,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-10-31": 29,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "up",
-    "uptime": "41.65%",
-    "uptimeDay": "89.42%",
+    "uptime": "41.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "42.24%",
-    "time": 542,
-    "timeDay": 637,
-    "timeWeek": 619,
-    "timeMonth": 572,
-    "timeYear": 542,
+    "uptimeYear": "42.51%",
+    "time": 541,
+    "timeDay": 371,
+    "timeWeek": 591,
+    "timeMonth": 574,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-11-18": 152,
       "2025-07-11": 229,
@@ -252,8 +252,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -267,11 +266,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 255,
-    "timeDay": 72,
-    "timeWeek": 166,
-    "timeMonth": 379,
-    "timeYear": 256,
+    "time": 256,
+    "timeDay": 479,
+    "timeWeek": 219,
+    "timeMonth": 388,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2025-10-20": 35
     }
@@ -288,10 +287,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 143,
-    "timeWeek": 215,
-    "timeMonth": 345,
-    "timeYear": 235,
+    "timeDay": 455,
+    "timeWeek": 250,
+    "timeMonth": 352,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2025-10-20": 60
     }
