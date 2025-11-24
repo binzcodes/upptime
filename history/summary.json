@@ -34,7 +34,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "43.60%",
+    "uptimeYear": "43.61%",
     "time": 538,
     "timeDay": 275,
     "timeWeek": 558,
@@ -248,8 +248,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -259,9 +258,9 @@
     "slug": "trianglish",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
     "timeDay": 1533,
@@ -269,7 +268,6 @@
     "timeMonth": 503,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-11-23": 14,
       "2025-10-20": 35
     }
   },
