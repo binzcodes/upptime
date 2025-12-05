@@ -6,14 +6,14 @@
     "slug": "main",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 233,
-    "timeDay": 295,
-    "timeWeek": 285,
-    "timeMonth": 246,
+    "timeDay": 276,
+    "timeWeek": 288,
+    "timeMonth": 247,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-12-03": 17,
@@ -31,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "up",
-    "uptime": "43.93%",
+    "uptime": "44.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "46.35%",
-    "time": 547,
-    "timeDay": 1280,
-    "timeWeek": 726,
-    "timeMonth": 595,
-    "timeYear": 547,
+    "uptimeYear": "46.62%",
+    "time": 548,
+    "timeDay": 782,
+    "timeWeek": 761,
+    "timeMonth": 607,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2025-11-18": 152,
       "2025-07-11": 229,
@@ -238,8 +238,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
@@ -254,9 +253,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 248,
-    "timeWeek": 244,
-    "timeMonth": 519,
+    "timeDay": 368,
+    "timeWeek": 275,
+    "timeMonth": 522,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-10-20": 35
@@ -273,11 +272,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 236,
-    "timeDay": 162,
-    "timeWeek": 219,
-    "timeMonth": 232,
-    "timeYear": 238,
+    "time": 237,
+    "timeDay": 530,
+    "timeWeek": 263,
+    "timeMonth": 242,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2025-10-20": 60
     }
