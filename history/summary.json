@@ -33,7 +33,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "up",
-    "uptime": "64.53%",
+    "uptime": "64.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.95%",
@@ -58,11 +58,11 @@
     "url": "https://trianglish.com",
     "icon": "https://icons.duckduckgo.com/ip3/trianglish.com.ico",
     "slug": "trianglish",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 347,
     "timeDay": 99,
@@ -73,7 +73,8 @@
       "2025-10-20": 35,
       "2026-03-11": 18,
       "2026-06-06": 47,
-      "2026-06-30": 43
+      "2026-06-30": 43,
+      "2026-07-27": 5
     }
   },
   {
@@ -81,13 +82,13 @@
     "url": "https://endoftreatmentbells.com",
     "icon": "https://icons.duckduckgo.com/ip3/endoftreatmentbells.com.ico",
     "slug": "end-of-treatment-bells",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 305,
+    "time": 306,
     "timeDay": 148,
     "timeWeek": 525,
     "timeMonth": 477,
@@ -98,7 +99,8 @@
       "2026-03-11": 39,
       "2026-03-23": 26,
       "2026-06-06": 42,
-      "2026-06-30": 38
+      "2026-06-30": 38,
+      "2026-07-27": 0
     }
   }
 ]
