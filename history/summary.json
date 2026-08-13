@@ -33,10 +33,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/binz.codes.ico",
     "slug": "main-binz-codes",
     "status": "up",
-    "uptime": "65.50%",
+    "uptime": "65.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.50%",
+    "uptimeMonth": "95.55%",
     "uptimeYear": "98.88%",
     "time": 577,
     "timeDay": 1058,
@@ -82,17 +82,17 @@
     "url": "https://endoftreatmentbells.com",
     "icon": "https://icons.duckduckgo.com/ip3/endoftreatmentbells.com.ico",
     "slug": "end-of-treatment-bells",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
-    "time": 319,
-    "timeDay": 1665,
-    "timeWeek": 740,
-    "timeMonth": 519,
-    "timeYear": 327,
+    "time": 320,
+    "timeDay": 1334,
+    "timeWeek": 733,
+    "timeMonth": 524,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-10-20": 60,
       "2026-02-17": 20,
@@ -101,7 +101,7 @@
       "2026-06-06": 42,
       "2026-06-30": 38,
       "2026-07-27": 65,
-      "2026-08-13": 0
+      "2026-08-13": 23
     }
   }
 ]
